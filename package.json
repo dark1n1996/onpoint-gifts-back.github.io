@@ -1,0 +1,26 @@
+{
+  "name": "onpoint-gifts-back.github.io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.11.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  },
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dark1n1996/onpoint-gifts-back.github.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dark1n1996/onpoint-gifts-back.github.io/issues"
+  },
+  "homepage": "https://github.com/dark1n1996/onpoint-gifts-back.github.io#readme"
+}

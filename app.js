@@ -50,7 +50,6 @@ app.use((_req, res, next) => {
   res.header('Access-Control-Allow-Credentials', 'true');
   next();
 });
-app.use(express.static(path.join(__dirname, 'public')));
 app.use(router);
 app.use(errorLogger);
 app.use(errors());

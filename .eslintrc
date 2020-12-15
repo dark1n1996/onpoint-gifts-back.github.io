@@ -1,0 +1,9 @@
+{
+  "extends": ["stylelint-config-prettier", "stylelint-config-htmlacademy", "stylelint-config-idiomatic-order"],
+  "rules": {
+    "property-no-vendor-prefix": null,
+    "selector-max-id": 2,
+    "string-quotes": "single",
+    "value-no-vendor-prefix": null
+  }
+}
